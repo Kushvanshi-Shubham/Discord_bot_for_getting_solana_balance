@@ -3,6 +3,7 @@ Wallet Balnace Checker Discord Bot
 - Clone the repository
 -Type npm install in the terminal 
 -Change the data in the .env file as per your required data
+-To run the bot use node index.js
 
 
 Bot - command 
